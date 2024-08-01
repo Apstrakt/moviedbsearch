@@ -1,0 +1,26 @@
+.pageTitle {
+  background: rgb(45, 39, 143);
+    background: linear-gradient(90deg, rgba(45, 39, 143, 1) 0%, rgba(49, 47, 98, 1) 10%, rgba(9, 9, 121, 1) 25%, rgba(43, 9, 117, 1) 50%, rgba(8, 9, 112, 1) 75%, rgba(49, 47, 98, 1) 90%, rgba(45, 39, 143, 1) 100                     rgba(43, 9, 117, 1) 50%, rgba(8, 9, 112, 1) 75%,
+                           rgb(55, 51, 133) 10%, rgba(9, 9, 121, 1) 25%
+                            );
+  color: #fffff2;
+  justify-content: center;
+  padding-left: 30%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.leftPanel {
+  flex-wrap: wrap;
+  max-width: 90%;
+}
+.searchMovie{
+  padding-left: 30%;
+  padding-bottom: 2%;
+}
+.search {
+  padding-left: 30%;
+  padding-bottom: 2%;
+}
+.results{
+  padding-left: 30%;
+}
